@@ -35,7 +35,7 @@ gc = gspread.authorize(credentials)
 
 
 # WooCommerce API details
-woo_url = 'https://wisdomhatch.com'
+woo_url = ''
 woo_consumer_key = ''
 woo_consumer_secret = ''
 
